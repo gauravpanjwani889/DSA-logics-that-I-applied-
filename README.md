@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0051-n-queens) |
+| [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 ## Backtracking
 |  |
 | ------- |
@@ -26,9 +27,18 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
