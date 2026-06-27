@@ -29,6 +29,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0231-power-of-two) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Recursion
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3857-minimum-cost-to-split-into-ones) |
 <!---LeetCode Topics End-->
