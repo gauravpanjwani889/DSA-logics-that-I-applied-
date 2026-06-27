@@ -6,6 +6,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0051-n-queens) |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,4 +47,16 @@
 |  |
 | ------- |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3857-minimum-cost-to-split-into-ones) |
+## Hash Table
+|  |
+| ------- |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
+## Counting
+|  |
+| ------- |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 <!---LeetCode Topics End-->
