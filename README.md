@@ -59,4 +59,20 @@
 |  |
 | ------- |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
