@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0051-n-queens) |
+| [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
@@ -67,12 +68,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
@@ -81,6 +84,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 ## Graph Theory
@@ -90,6 +94,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
