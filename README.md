@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0051-n-queens) |
+| [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Backtracking
@@ -62,17 +63,24 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
