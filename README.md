@@ -42,6 +42,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
