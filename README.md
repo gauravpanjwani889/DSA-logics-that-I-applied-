@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0160-intersection-of-two-linked-lists) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Sliding Window
 |  |
@@ -135,6 +136,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0237-delete-node-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
