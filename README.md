@@ -12,6 +12,7 @@
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Backtracking
 |  |
@@ -78,6 +79,7 @@
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -113,9 +117,18 @@
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0210-course-schedule-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
