@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0127-word-ladder) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Greedy
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0072-edit-distance) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Hash Table
