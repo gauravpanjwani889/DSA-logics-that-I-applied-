@@ -12,6 +12,7 @@
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Backtracking
@@ -59,6 +60,7 @@
 | ------- |
 | [0072-edit-distance](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0072-edit-distance) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Hash Table
 |  |
