@@ -8,6 +8,7 @@
 | [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
+| [0312-burst-balloons](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0072-edit-distance) |
+| [0312-burst-balloons](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
