@@ -14,6 +14,7 @@
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
@@ -67,6 +68,7 @@
 | [0312-burst-balloons](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
+| [1043-partition-array-for-maximum-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3857-minimum-cost-to-split-into-ones) |
