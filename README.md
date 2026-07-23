@@ -91,6 +91,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0207-course-schedule) |
@@ -165,4 +166,16 @@
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1547-minimum-cost-to-cut-a-stick) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
