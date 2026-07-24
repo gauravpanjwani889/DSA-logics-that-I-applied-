@@ -97,6 +97,7 @@
 | [0207-course-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
@@ -111,6 +112,7 @@
 | [0322-coin-change](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
@@ -174,8 +176,10 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
