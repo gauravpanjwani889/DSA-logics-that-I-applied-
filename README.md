@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0132-palindrome-partitioning-ii) |
 | [0213-house-robber-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0312-burst-balloons) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0207-course-schedule) |
@@ -178,11 +180,13 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
