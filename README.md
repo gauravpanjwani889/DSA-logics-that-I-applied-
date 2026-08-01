@@ -31,6 +31,7 @@
 | [0072-edit-distance](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0132-palindrome-partitioning-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Greedy
 |  |
@@ -103,6 +104,7 @@
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
@@ -118,6 +120,7 @@
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
@@ -191,6 +194,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -201,6 +205,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -208,4 +213,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
