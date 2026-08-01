@@ -80,6 +80,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Sliding Window
@@ -103,6 +104,7 @@
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1631-path-with-minimum-effort) |
@@ -119,6 +121,7 @@
 | [0547-number-of-provinces](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
@@ -186,6 +189,7 @@
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -194,5 +198,6 @@
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
