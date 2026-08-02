@@ -15,6 +15,7 @@
 | [0542-01-matrix](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1043-partition-array-for-maximum-sum) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,4 +228,9 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0098-validate-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
