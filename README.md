@@ -189,6 +189,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -198,6 +199,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -211,6 +213,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -223,14 +226,20 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
