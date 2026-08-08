@@ -249,4 +249,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
