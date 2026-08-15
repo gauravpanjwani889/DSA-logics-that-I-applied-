@@ -7,6 +7,7 @@
 | [0051-n-queens](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0213-house-robber-ii) |
@@ -47,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0231-power-of-two) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
