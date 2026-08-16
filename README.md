@@ -263,4 +263,5 @@
 | [1045-customers-who-bought-all-products](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1211-queries-quality-and-percentage) |
+| [1789-primary-department-for-each-employee](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
