@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0213-house-robber-ii) |
@@ -72,6 +73,7 @@
 | [0072-edit-distance](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0132-palindrome-partitioning-ii) |
+| [0198-house-robber](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gauravpanjwani889/DSA-logics-that-I-applied-/tree/master/0322-coin-change) |
